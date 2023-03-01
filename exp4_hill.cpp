@@ -11,8 +11,8 @@ void getKeyMessage(); //gets key and message from user
 void inverse(); //finds inverse of key matrix
  
 int main() {
-	cout<<"Name : Gandikota Anjali"<<endl;
-    cout<<"Roll No:20115032 "<<endl; 
+	cout<<"Name : "<<endl;
+    cout<<"Roll No: "<<endl; 
 getKeyMessage();
 encryption();
 decryption();
