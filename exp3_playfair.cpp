@@ -112,7 +112,7 @@ vector<string>break_into_two(string s){
     return v;
 }
 int main(){
-    cout<<"Name: Durgam Priyanka \nRoll NO: 20115031 \n";
+    cout<<"Name:  \nRoll NO:  \n";
     string key,Text;
     cout<<"key:";
     cin>>key;
