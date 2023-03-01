@@ -43,7 +43,7 @@ string originalText(string cipher_text, string key)
 	return orig_text;
 }
 int main()
-{   cout<<"Name : Durgam Priyanka \nRoll Number : 20115031\n";
+{   cout<<"Name :  \nRoll Number : \n";
 
 	string str;
 	cout<<"text :";cin>>str;
