@@ -289,7 +289,7 @@ int main()
 		rkb.push_back(RoundKey);
 		rk.push_back(bin2hex(RoundKey));
 	}
-cout<<"Name : Jannu Tharun \nRoll Number : 20115039\n";
+cout<<"Name :  \nRoll Number : \n";
 
 	cout << "\nEncryption:\n";
 	string cipher = encrypt(pt, rkb, rk);
