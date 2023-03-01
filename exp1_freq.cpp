@@ -2,8 +2,8 @@
 using namespace std;
 
 int main()
-{ cout<<"Name : Durgam Priyanka"<<endl;
-   cout<<"Roll Number : 20115031"<<endl;
+{ cout<<"Name : "<<endl;
+   cout<<"Roll Number : "<<endl;
    cout<<"Enter the string : ";
    string s;
    cin>>s;
