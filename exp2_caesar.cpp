@@ -22,8 +22,8 @@ string decrypt(string text,int s)
     return result;
 }
 int main()
-{ cout<<"Name : Durgam Priyanka"<<endl;
-   cout<<"Roll Number : 20115031"<<endl;
+{ cout<<"Name : "<<endl;
+   cout<<"Roll Number : "<<endl;
    cout<<"Enter the string : ";
    string text;
    cin>>text;
