@@ -58,7 +58,7 @@ string decryptRailFence(string cipher, int key)
 	return result;
 }
 int main()
-{    cout<<"Name : Durgam Priyanka \nRoll Number : 20115031\n";
+{    cout<<"Name :  \nRoll Number : \n";
      string text;
      int key;
      cout<<"text :";
